@@ -1,6 +1,14 @@
 # maker
 This is a framework for Advertisement Website discovery using keywords in URL, MetaTag and blk.Finall  (for Persian websites). 
 
+
+For obtain score for each webite, the program consider these attributes:
+- Blak list as a score
+- Keywords in URL as a score
+- Keywords in Matatag as a score
+
+
+
 Input:
 Name of Websites
 

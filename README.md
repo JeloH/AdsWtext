@@ -1,5 +1,5 @@
 # maker
-This is a framework for Advertisement Website discovery using keywords in URL, MetaTag and blk.Finall  (for Persian websites). 
+This is a C# program for Advertisement Website discovery using keywords in URL, MetaTag and blk.Finall  (for Persian websites). 
 
 
 For obtain score for each webite, the program consider these attributes:

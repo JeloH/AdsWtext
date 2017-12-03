@@ -1,4 +1,4 @@
-# maker
+# AdsWtext
 This is a C# program for Advertisement Website discovery using keywords in URL, MetaTag and blk.Finall  (for Persian websites). 
 
 
